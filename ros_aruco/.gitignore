@@ -1,0 +1,4 @@
+*.swp
+bin
+msg_gen
+src/ros_aruco
